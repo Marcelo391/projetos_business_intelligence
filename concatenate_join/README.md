@@ -1,14 +1,16 @@
-## Projeto Concatenate e Join
+# Projeto Concatenate e Join
 
-- Projeto desenvolvido para mostrar o uso dos comandos Concatenate e Join na ferramenta Qlik Sense
+Projeto desenvolvido na plataforma Qlik Sense para mostrar o uso dos comandos Concatenate e Join na ferramenta.
 
-> Com o QLik Sense Desktop intalado em sua máquina, copie o arquivo Concatenate_Join.qvf e cole na pasta Documents\Qlik\Sense\Apps
+## Instruções
 
+Com o software Qlik Sense Desktop intalado em sua máquina, copie o arquivo Concatenate_Join.qvf e cole na pasta Documents\Qlik\Sense\Apps
 
-
-### Projeto desenvolvido na plataforma Qlik Sense
+### Modelo de Dados
 
 ![dsds](tabela.PNG)
+
+
 
 
 
